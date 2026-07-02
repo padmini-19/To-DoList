@@ -59,7 +59,7 @@ npm run dev
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](./images/Homepage.png)
+![Home Page](./images/HomePage.png)
 
 ### Adding a Task
 ![Adding Task](./images/AddingTask.png)
