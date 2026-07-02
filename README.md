@@ -53,13 +53,21 @@ npm install
 
 # Start development server
 npm run dev
-
+```
 ---
 
-##  Screenshots
+## 📸 Screenshots
 
-<img width="1355" height="621" alt="Screenshot 2026-07-02 152825" src="https://github.com/user-attachments/assets/8a2a5fe2-f9cc-4564-9df5-1b3b89db64af" />
+### Home Page
+![Home Page](./images/home.png)
 
+### Adding a Task
+![Adding Task](./images/add-task.png)
+
+### Completed Tasks
+![Completed Tasks](./images/completed.png)
+
+---
 
 ---
 
