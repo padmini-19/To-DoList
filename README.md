@@ -54,7 +54,7 @@ npm install
 # Start development server
 npm run dev
 
-### Preview
+## Screenshots
 
 <img width="1355" height="621" alt="image" src="https://github.com/user-attachments/assets/c878dd8d-8ae9-49fc-883b-440da0596e77" />
 <img width="1340" height="615" alt="image" src="https://github.com/user-attachments/assets/00d6b8fc-044f-4ad7-bc42-0651579bec37" />
