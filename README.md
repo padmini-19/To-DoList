@@ -59,13 +59,13 @@ npm run dev
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](./images/home.png)
+![Home Page](./images/Homepage.png)
 
 ### Adding a Task
-![Adding Task](./images/add-task.png)
+![Adding Task](./images/AddingTask.png)
 
 ### Completed Tasks
-![Completed Tasks](./images/completed.png)
+![Completed Tasks](./images/CompletedTasks.png)
 
 ---
 
