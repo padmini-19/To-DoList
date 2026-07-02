@@ -1,0 +1,45 @@
+.App{
+  background: #516b8b;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #056b3b, #516b8b);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #056b3b, #516b8b); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+height: 100vh;
+}
+.container {
+  background-color: white;
+  width: 400px;
+  min-height: 550px;
+  height: auto;
+}
+
+.circle-btn {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: #516b8b;
+  color: white;
+  border: none;
+  padding: 0;
+  font-size: 24px;
+  cursor: pointer;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.task-input{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  column-gap: 10px;
+}
+.Task-list{
+  list-style-type: none;
+
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.task-actions{
+  display: flex;
+  column-gap: 10px;
+}
